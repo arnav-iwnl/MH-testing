@@ -8,3 +8,9 @@ https://edition.cnn.com/sitemap/news.xml
 https://www.thelallantop.com/sitemaps/category-sitemap.xml
     -> pure hindi
 
+https://www.aajtak.in/rssfeeds/news-sitemap.xml
+    -> pure hindi
+
+https://edition.cnn.com/sitemap/article.xml
+    -> crawl each category
+    
